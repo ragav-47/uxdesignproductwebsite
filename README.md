@@ -20,7 +20,7 @@ Creating links and linking it with artboards
 
 
 ## WIREFRAME:
-![output](./static/img/wireframe.jpg)
+![output](./static/img/frame.jpg)
 
 
 
