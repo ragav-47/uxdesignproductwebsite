@@ -14,15 +14,22 @@ Designing layout for individual pages
 ### Step 5:
 Creating links and linking it with artboards
 ### Step 6:
-Preview the prototype.
 
 ## DESIGN SCREENS:
+![output](./static/img/design.jpg)
 
 
 ## WIREFRAME:
+![output](./static/img/wireframe.jpg)
+
 
 
 ## PROTOTYPE:
+![output](./static/img/home.jpg)
+![output](./static/img/crew.jpg)
+![output](./static/img/product.jpg)
+![output](./static/img/contact.jpg)
 
 
 ## RESULT:
+Thus a UX design and wireframe is designed for product development company website.
